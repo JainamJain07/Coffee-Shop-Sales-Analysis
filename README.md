@@ -4,6 +4,8 @@ Power BI dashboard for coffee shop retail sales performance.
 
 # ☕ Coffee Shop Sales Analysis (Power BI)
 
+Power BI project for visualizing time-based retail trends using Excel, SQL & DAX.
+
 A business intelligence project built for a fictional coffee shop chain, focusing on sales trends, customer behavior, and product performance.
 
 This project simulates how small retail businesses can leverage data visualization to improve sales strategy, product focus, and operational efficiency.
