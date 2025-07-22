@@ -53,7 +53,7 @@ This project simulates how small retail businesses can leverage data visualizati
   👉 [Click here to view the PDF](https://github.com/JainamJain07/Coffee-Shop-Sales-Analysis/blob/main/Coffee%20Shop%20sales.pdf)
 - `Coffee_Shop_Dashboard.pbix` → Power BI source file  
   ⚠️ *Note: GitHub can't preview .pbix files. Please download to open in Power BI Desktop.*  
-- Live Dashboard 👉 [View on Power BI](https://app.powerbi.com/view?r=eyJrIjoiMmYzNDA2MzMtNmMzYS00NWI1LWEwNjQtNzllMTlmYjlhYmQwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+- Live Dashboard 👉 [View on Power BI](https://app.powerbi.com/view?r=eyJrIjoiODdlOTZiZmMtZTIxNi00NDgwLWE3ZGUtMmI1NTk4YWEzM2JhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 
 ---
